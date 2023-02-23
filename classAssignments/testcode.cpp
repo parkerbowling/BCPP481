@@ -1,12 +1,8 @@
-#include <iostream>
-#include <string>
+#include <cstdio>
 
-int main(int argc, char** argv){
+int main(){
 
-	printf("Hello world");
-	char s = "s";
-	char val = s + 32;		
-
+	printf("Hello world\n");
 
 	return 0;
 }
