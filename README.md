@@ -14,6 +14,6 @@
 - You will then get an output with a hash value. This hash should match exactly with the hashes below 
     for each Homework Assignment
 
-HW1 :
-HW2 :
-HW3 :
+1. HW1 : 8db5e0f23eb1857a6bca5eb428712662c9c845f4
+2. HW2 :
+3. HW3 :
