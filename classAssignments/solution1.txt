@@ -1,0 +1,12 @@
+10 15.2 25.2 1.52 152.0 1000
+Dr. Ring loves Python
+Dr. Ring loves PythonDr. Ring loves Python
+<class 'str'>
+Dr. Ring loves Python
+[25, 26, 34, 7, 481, 31, 300]
+129.14285714285714
+75
+165
+dict_keys(['Gonzaga', 'TN Tech', 'FGCU', 'Butler', 'USC'])
+dict_values(['99', '75', '81', '71', 73])
+{'Gonzaga': '99', 'TN Tech': '75', 'FGCU': '81', 'Butler': '71', 'USC': 73}
