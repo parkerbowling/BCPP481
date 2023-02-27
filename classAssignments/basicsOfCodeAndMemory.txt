@@ -3,6 +3,7 @@ Good Intro Site: https://www.math.purdue.edu/~bradfor3/ProgrammingFundamentals/
 
 Day 1:
     - Cover basics of how code works, use C++ file as demonstration
+        - go over binary, hexadecimal numbers and why we need them.
         - differences in compiling C++ and Python code, why it's slower than C++
         - go over reading code, code is a language, reading, writing, and speaking
         - Go over simple memory things, objdump the binary
