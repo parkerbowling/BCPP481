@@ -9,7 +9,7 @@
 - To check your homework type this command in the image below:
     (where it says "this is output of your code" that is where you will put the output of your homework you just executed) 
 
-![Alt text](relative%20path/img/commandSnip.png?raw=True "Running Homework Checker")  
+![plot](/img/commandSnip.png)  
 
 - You will then get an output with a hash value. This hash should match exactly with the hashes below 
     for each Homework Assignment
