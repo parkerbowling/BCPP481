@@ -10,3 +10,10 @@ Day 1:
         - go over variable types, what we can do with them and such
         - variable types, also lists and dicts
         - make sure to go over what x = 4 actually is doing, with regards to the equal sign
+
+Day 2:
+    - go over imports and libraries and how to import things
+    - Talk about control flow with basic if/else statements
+    - talk about conditions within if/else statements
+    - go over if, elif, and else
+    - string indexing and string manipulation
