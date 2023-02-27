@@ -15,5 +15,5 @@
     for each Homework Assignment
 
 1. HW1 : 8db5e0f23eb1857a6bca5eb428712662c9c845f4
-2. HW2 :
-3. HW3 :
+2. HW2 : 63c0d2582e053b788065aee45db8687314fafefc
+3. HW3 : 964a24335a2373b0041287173a5eaa6688e514db
