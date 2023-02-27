@@ -7,14 +7,14 @@
     For example, "this is output of your code"
 
 - To check your homework type this command in the image below:
-    (where it says "this is output of your code" that is where you will put the output of your homework you just executed) 
+    (where it says "this is output of your code" that is where you will put the output of your homework you just executed)
+
+- Your output should be in quotation marks like the image 
 
 ![plot](/img/commandSnip.png)  
 
 - You will then get an output with a hash value. This hash should match exactly with the hashes below 
-    for each Homework Assignment
-
-## *Make sure your output is in quotation marks*
+    for each Homework Assignment.
 
 1. HW1 : 8db5e0f23eb1857a6bca5eb428712662c9c845f4
 2. HW2 : 63c0d2582e053b788065aee45db8687314fafefc
