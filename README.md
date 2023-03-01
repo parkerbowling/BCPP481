@@ -1,21 +1,35 @@
-# How to check your homework
-- First download "homeworkChecker.py"
-    (Make sure this is in your downloads folder, if not, use your terminal/command prompt
-        to "cd" into the proper directory to run the file)
+# HW 2A Assignment
 
-- Once you are in the right directory run your homework assignment and it will produce some output
-    For example, "this is output of your code"
+# Problem Statement
 
-- To check your homework type this command in the image below:
-    (where it says "this is output of your code" that is where you will put the output of your homework you just executed)
+You are given a list of words. Your task is to write a Python program that will check each word in the list and classify it into one of three categories based on the following rules:
 
-- Your output should be in quotation marks like the image 
+1. If the word starts with "a" and is shorter than 5 characters, print "Short a-word".
+2. If the word contains the letter "e" or "o" and is longer than 7 characters, print "Long e-o word".
+3. If the word is longer than 10 characters and does not meet the above criteria, print "Long word".
+## Input
+You do not need to take any input from the user. The list of words is already provided for you.
 
-![plot](/img/commandSnip.png)  
+## Output
+Your program should output the classification for each word in the list in the following format:
 
-- You will then get an output with a hash value. This hash should match exactly with the hashes below 
-    for each Homework Assignment.
+'''python
+apple is Short a-word
+love is Long e-o word
+program is Long word
+machines is Long e-o word
+learning is Long word
+python is Long word
+air is Short a-word
+happiness is Long e-o word
+networks is Long word
+'''
 
-1. HW1 : 8db5e0f23eb1857a6bca5eb428712662c9c845f4
-2. HW2 : 63c0d2582e053b788065aee45db8687314fafefc
-3. HW3 : 964a24335a2373b0041287173a5eaa6688e514db
+## Requirements
+Your program should meet the following requirements:
+
+1. Your program should be written in Python 3.
+2. Your program should use if, elif, and else statements with logical operators to classify the words.
+3. You should not use any input() or raw_input() functions to take input from the user.
+4. Your program should output the classification for each word in the list in the format shown above.
+
