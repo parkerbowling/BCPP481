@@ -13,7 +13,7 @@ You do not need to take any input from the user. The list of words is already pr
 ## Output
 Your program should output the classification for each word in the list in the following format:
 
-'''python
+```python
 apple is Short a-word
 love is Long e-o word
 program is Long word
@@ -23,7 +23,7 @@ python is Long word
 air is Short a-word
 happiness is Long e-o word
 networks is Long word
-'''
+```
 
 ## Requirements
 Your program should meet the following requirements:
