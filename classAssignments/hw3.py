@@ -7,7 +7,7 @@ myList = [87, 97, 100, 100, 59, 98, 77, 79, 81, 85, 70]
 
 #define a function called "average" that takes in myList as an argument
 # 1. print the average in a string called "The average is X" -> where X will be the average you find
-#you are not allowed to use built in functions like sum()
+#you are not allowed to use built in functions like sum() (use a loop)
 # 2. create a list that only contains even scores and print the list
 # 3. iterate through the list of scores and 
 #    if that score is above an 80 and an even number score -> print "This score is above 80 and even"
