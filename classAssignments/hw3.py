@@ -22,4 +22,5 @@ myList = [87, 97, 100, 100, 59, 98, 77, 79, 81, 85, 70]
 '''end of code'''        
 
 #make sure to call your function!
-
+# like this:
+# average(myList)
